@@ -1,3 +1,4 @@
+Live Demo: https://exception-hitl-demo-krgj83g3sefmthqxnfmv7s.streamlit.app/
 # Exception HITL Demo
 
 Lightweight AI product demo for job interviews: **Exception → classify + action + confidence → human-in-the-loop → decision log / eval**.
